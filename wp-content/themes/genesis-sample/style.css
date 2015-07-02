@@ -1489,3 +1489,8 @@ li.comment {
 .fa fa-home{
 	align: middle;
 }
+
+.site-title a, .site-title a:hover {
+	font-size: 50px;
+}
+
