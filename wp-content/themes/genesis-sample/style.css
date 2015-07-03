@@ -1486,11 +1486,36 @@ li.comment {
 }
 
 /*Home*/
-.fa fa-home{
-	align: middle;
-}
+
 
 .site-title a, .site-title a:hover {
-	font-size: 50px;
+	font-size: 48px;
+	font-color: #777;
 }
 
+.site-description {
+	font-size: 34px;
+	font-color: #777;
+}
+
+.nav-primary {
+	background-color: #4cc4e0;
+}
+.nav-primary .genesis-nav-menu a:hover, .nav-primary .genesis-nav-menu .current-menu-item > a, .nav-primary .genesis-nav-menu .sub-menu .current-menu-item > a:hover {
+	color: #777;
+}
+
+a:hover {
+	color: #777;
+}
+
+a {
+	color: #777;
+}
+
+.genesis-nav-menu {
+	clear: both;
+	font-size: 28px;
+	line-height: 1;
+	width: 100%;
+}
