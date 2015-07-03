@@ -1509,6 +1509,12 @@ li.comment {
 .nav-primary .genesis-nav-menu a:hover, .nav-primary .genesis-nav-menu .current-menu-item > a, .nav-primary .genesis-nav-menu .sub-menu .current-menu-item > a:hover {
 	color: #777;
 }
+.genesis-nav-menu {
+	clear: both;
+	font-size: 28px;
+	line-height: 1;
+	width: 100%;
+}
 
 a:hover {
 	color: #777;
