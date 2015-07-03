@@ -1486,18 +1486,21 @@ li.comment {
 }
 
 /*Home*/
-
-
+@import  "http://fonts.googleapis.com/css?family=Domine:700";
 
 
 .site-title a, .site-title a:hover {
-	font-size: 46px;
 	color: #777;
+	font-size: 50px;
+	font-family: 'Domine';
 }
+
 
 .site-description {
 	font-size: 34px;
 	color: #4cc4e0;
+	font-weight: 300;
+	line-height: 1.5;
 }
 
 .nav-primary {
