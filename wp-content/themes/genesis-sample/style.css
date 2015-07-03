@@ -1491,7 +1491,7 @@ li.comment {
 
 
 .site-title a, .site-title a:hover {
-	font-size: 48px;
+	font-size: 46px;
 	color: #777;
 }
 
@@ -1526,6 +1526,7 @@ a {
 	color: #4cc4e0;
 	font-size: 30px;
 	font-family: 'Lobster', cursive;
+	font-weight: bold;
 
 }
 
@@ -1533,5 +1534,6 @@ a {
 	color: #777;
 	font-size: 30px;
 	font-family: 'Lobster', cursive;
+	font-weight: bold;
 
 }
