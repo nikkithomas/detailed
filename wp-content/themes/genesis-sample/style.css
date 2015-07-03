@@ -1488,14 +1488,16 @@ li.comment {
 /*Home*/
 
 
+
+
 .site-title a, .site-title a:hover {
 	font-size: 48px;
-	font-color: #777;
+	color: #777;
 }
 
 .site-description {
 	font-size: 34px;
-	font-color: #777;
+	color: #777;
 }
 
 .nav-primary {
@@ -1518,4 +1520,18 @@ a {
 	font-size: 28px;
 	line-height: 1;
 	width: 100%;
+}
+
+.business-name{
+	color: #4cc4e0;
+	font-size: 38px;
+	font-family: 'Lobster', cursive;
+
+}
+
+#body-home{
+	color: #777;
+	font-size: 38px;
+	font-family: 'Lobster', cursive;
+
 }
