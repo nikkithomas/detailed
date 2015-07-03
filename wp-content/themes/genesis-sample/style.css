@@ -1546,3 +1546,7 @@ a {
 	font-weight: bold;
 
 }
+.title-area {
+	float: left;
+	padding: 0;
+}
